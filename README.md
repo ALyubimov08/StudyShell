@@ -1,6 +1,8 @@
+![](Extras/shell.png)
+
 This is as very simple C shell, written for educational purposes
 during the course of 3rd semester C classes with A. V. Stolyarov
-at MSU CD Department 
+at MSU CS Department 
 
 Project consists of 5 C-files, each representing one feature added for 
 the Shell:
